@@ -4,7 +4,9 @@ This is a simple text encryption and decryption tool implemented in Python. It a
 
 ## 📸 Screenshot
 
-![Terminal](screenshot.png)
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a8114d5-0241-4091-b7a0-ee211590beae" />
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/c2726d8e-9a70-44ab-8fa9-f99707f40f44" />
+
 
 ## Features
 
